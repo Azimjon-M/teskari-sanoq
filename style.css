@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex: row;
+    gap: 0 20px;
+    justify-content: center;
+    margin: 100px 0 0 0;
+    font-size: 24px;
+}
+.soat-minut {
+    display: flex;
+    flex: row;
+}
+.kun {
+    color: red;
+}
+.soat {
+    color: green;
+}
+.daqiqa {
+    color: blue;
+}
+.sekund {
+    color: darkturquoise;
+}
